@@ -19,6 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebasWebBlazor", "Pruebas
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebasWebBlazorServer", "PruebasWebBlazorServer\PruebasWebBlazorServer.csproj", "{886F41A6-6361-48F7-A347-529DD89F4DCE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScriptsBD", "ScriptsBD", "{8C6D9114-5E52-4157-8ACB-AA1D57C70595}"
+	ProjectSection(SolutionItems) = preProject
+		ScriptDB.sql = ScriptDB.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
